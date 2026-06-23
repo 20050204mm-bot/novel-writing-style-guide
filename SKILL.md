@@ -1,7 +1,7 @@
 ﻿---
-name: nsfw-novel-style
-description: 调教恶堕肛门开发类小说写作风格指南
-compatibility: Works best with Claude, GPT-4o
+name: nsfw-novel-style-guide
+description: 'writing style guide for NSFW novel'
+compatibility: 'Works best with Claude, GPT-4o'
 ---
 
 # 调教/恶堕/肛门开发类小说写作风格指南
@@ -204,7 +204,6 @@ compatibility: Works best with Claude, GPT-4o
 
 ---
 
-## 九、参考范文（D:\小说\）
 
 ### 核心参考（强烈推荐阅读全文）
 - `欲望巅峰（合集）.txt` — BDSM情感+情节范本
